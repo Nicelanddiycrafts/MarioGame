@@ -1,0 +1,37 @@
+.btn1{
+    background-color: #436eab;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+
+}
+.btn1 button{
+    float: right;
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.te{
+    display: inline-block !important;
+    width: 65% !important; 
+    height: 50%;
+}
+
+
+
+   video{
+       background: url('game_console.png');
+       background-position: center ;
+       background-size: cover;
+       padding: 25px;
+   }
